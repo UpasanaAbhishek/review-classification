@@ -14,3 +14,5 @@ Aiming to build a text classifier using Python packages. This is a work in progr
   pages     = {142--150},
   url       = {http://www.aclweb.org/anthology/P11-1015}
 }
+
+Please unzip the data files before using the code.
