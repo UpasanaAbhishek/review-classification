@@ -1,5 +1,7 @@
 # review-classification
-Aiming to build a text classifier using Python packages. This is a work in progress.
+Aiming to build a text classifier using Python packages. 
+
+So far, I've only fit a Naive Bayes classifier. This is a work in progress.
 
 ### Citing the paper for the dataset:
 
